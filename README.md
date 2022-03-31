@@ -1,4 +1,4 @@
-### MVVM Image Search App with Architecture Components & Retrofit this is project to show the image and search about a collection of image
+### MVVM Image Search App with Architecture Components & Retrofit this project to show the image and search about a collection of image
 
 # Tools Used
 #### Kotlin
