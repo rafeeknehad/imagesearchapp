@@ -1,5 +1,19 @@
 # MVVM Image Search App with Architecture Components & Retrofit
 
-Watch the course here: https://www.youtube.com/playlist?list=PLrnPJCHvNZuC_pEfFlZuTmjlY4T3DTtED
+# Output
+this is project to show the image and search about a collection of image
 
-![thumbnail part 1](https://user-images.githubusercontent.com/52977034/116893176-f6906d00-ac30-11eb-9aa2-24583e6ca4e9.png)
+#Tools Used
+Kotlin Coroutines
+MVVM
+Paging 3
+Dagger Hilt (Dependency Injection)
+View Binding
+
+#References
+video: https://www.youtube.com/watch?v=m_cMJehM9xc&list=PLrnPJCHvNZuC_pEfFlZuTmjlY4T3DTtED&index=1
+api: https://unsplash.com/documentation
+
+
+
+
